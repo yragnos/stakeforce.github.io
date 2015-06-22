@@ -1,2 +1,3 @@
 # stakeforce.github.io
-Stakeforce - Because it's time.
+
+h1 Stakeforce - Because it's time.
