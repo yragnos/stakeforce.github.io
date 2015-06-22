@@ -1,4 +1,7 @@
 # stakeforce.github.io
 
-Stakeforce  Because it's time.
+Stakeforce  
 ==========
+
+Because it's time.
+
